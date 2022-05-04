@@ -1,8 +1,7 @@
 ; Program Name: Happy Birthday
 ; Author: Priyanka Kotak
-; Email: priyankaaax3@csu.fullerton.edu
 ; Program Description: The purpose of this program is to wish Happy Birthday
-; to the Professor of CPSC 240.
+; to the user.
 
 ; extern statements
 extern printf
